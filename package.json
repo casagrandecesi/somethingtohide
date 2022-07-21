@@ -1,0 +1,23 @@
+{
+  "name": "it.edu.casagrandecesi.somethingtohide",
+  "displayName": "Something to hide",
+  "version": "1.0.0",
+  "description": "Storia interattiva che insegna il valore della privacy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "I.I.S. \"Casagrande-Cesi\", Terni",
+  "license": "MIT",
+  "devDependencies": {
+    "cordova-ios": "^6.2.0"
+  },
+  "cordova": {
+    "platforms": [
+      "ios"
+    ]
+  }
+}
