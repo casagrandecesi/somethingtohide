@@ -1,7 +1,7 @@
 {
   "name": "it.edu.casagrandecesi.somethingtohide",
   "displayName": "Something to hide",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Storia interattiva che insegna il valore della privacy",
   "main": "index.js",
   "scripts": {
